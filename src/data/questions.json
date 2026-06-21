@@ -1,0 +1,1952 @@
+[
+  {
+    "id": 1,
+    "section": "WiFi & Bluetooth",
+    "question": "Standar WiFi 802.11b menggunakan teknologi spread spectrum jenis...",
+    "options": {
+      "A": "FHSS (Frequency Hopping Spread Spectrum)",
+      "B": "DSSS (Direct Sequence Spread Spectrum)",
+      "C": "OFDM (Orthogonal Frequency Division Multiplexing)",
+      "D": "MIMO (Multiple Input Multiple Output)",
+      "E": "QAM (Quadrature Amplitude Modulation)"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 2,
+    "section": "WiFi & Bluetooth",
+    "question": "Standar 802.11g menggunakan teknik multiplexing...",
+    "options": {
+      "A": "DSSS",
+      "B": "FHSS",
+      "C": "MIMO",
+      "D": "Frequency Division Multiplexing",
+      "E": "TDMA"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 3,
+    "section": "WiFi & Bluetooth",
+    "question": "IEEE 802.11n memiliki keunggulan menggunakan antena MIMO yang berarti...",
+    "options": {
+      "A": "Satu antena pengirim dan banyak penerima",
+      "B": "Banyak antena pengirim dan satu penerima",
+      "C": "Banyak antena penerima dan pengirim secara simultan",
+      "D": "Dua antena yang bergantian",
+      "E": "Antena yang berpindah frekuensi"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 4,
+    "section": "WiFi & Bluetooth",
+    "question": "WiFi Alliance sebelumnya dikenal dengan nama...",
+    "options": {
+      "A": "IEEE Alliance",
+      "B": "Wireless Ethernet Compatibility Alliance",
+      "C": "Wi-Fi Standards Board",
+      "D": "Global Wireless Consortium",
+      "E": "Network Access Alliance"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 5,
+    "section": "WiFi & Bluetooth",
+    "question": "Pada wireless, semakin tinggi gelombang radio maka...",
+    "options": {
+      "A": "Bandwidth semakin rendah, jarak semakin jauh",
+      "B": "Bandwidth semakin tinggi, jarak semakin jauh",
+      "C": "Bandwidth semakin tinggi, jarak semakin pendek",
+      "D": "Bandwidth dan jarak sama-sama meningkat",
+      "E": "Bandwidth dan jarak sama-sama menurun"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 6,
+    "section": "WiFi & Bluetooth",
+    "question": "Hotspot WiFi didefinisikan sebagai area yang dilayani oleh satu...",
+    "options": {
+      "A": "Router Internet",
+      "B": "Access Point Wireless LAN",
+      "C": "BTS Seluler",
+      "D": "Bluetooth Hub",
+      "E": "Ethernet Switch"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 7,
+    "section": "WiFi & Bluetooth",
+    "question": "IEEE 802.11ac diterbitkan pada tahun berapa dan kecepatan transfernya mencapai...",
+    "options": {
+      "A": "2010, hingga 600 Mbps",
+      "B": "2013, hingga 1 Gbps",
+      "C": "2015, hingga 2 Gbps",
+      "D": "2012, hingga 54 Mbps",
+      "E": "2011, hingga 300 Mbps"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 8,
+    "section": "WiFi & Bluetooth",
+    "question": "Protokol keamanan WiFi yang menggunakan 128-bit TKIP (Temporal Key Integrity Protocol) adalah...",
+    "options": {
+      "A": "WEP",
+      "B": "WPA",
+      "C": "WPA2",
+      "D": "WPA3",
+      "E": "AES"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 9,
+    "section": "WiFi & Bluetooth",
+    "question": "WPA2 menggunakan standar enkripsi yang lebih kuat dibanding WPA, yaitu...",
+    "options": {
+      "A": "RC4",
+      "B": "TKIP",
+      "C": "DES",
+      "D": "AES",
+      "E": "RSA"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 10,
+    "section": "WiFi & Bluetooth",
+    "question": "WEP (Wired Equivalency Protocol) menggunakan cipher stream jenis...",
+    "options": {
+      "A": "AES",
+      "B": "DES",
+      "C": "RC4",
+      "D": "TKIP",
+      "E": "RSA"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 11,
+    "section": "WiFi & Bluetooth",
+    "question": "IEEE 802.11 berkaitan dengan lapisan mana pada model OSI?",
+    "options": {
+      "A": "Network dan Transport Layer",
+      "B": "Application dan Presentation Layer",
+      "C": "Data Link dan Physical Layer",
+      "D": "Session dan Transport Layer",
+      "E": "Physical dan Network Layer"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 12,
+    "section": "WiFi & Bluetooth",
+    "question": "MAC Filtering pada WiFi bekerja berdasarkan...",
+    "options": {
+      "A": "Nama SSID perangkat",
+      "B": "Alamat IP perangkat",
+      "C": "Alamat MAC unik setiap perangkat",
+      "D": "Password WiFi",
+      "E": "Jenis enkripsi yang digunakan"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 13,
+    "section": "WiFi & Bluetooth",
+    "question": "Bluetooth pertama kali diperkenalkan oleh perusahaan...",
+    "options": {
+      "A": "Nokia",
+      "B": "Intel",
+      "C": "IBM",
+      "D": "Ericsson",
+      "E": "Toshiba"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 14,
+    "section": "WiFi & Bluetooth",
+    "question": "Nama 'Bluetooth' diambil dari nama...",
+    "options": {
+      "A": "Penemu teknologi radio",
+      "B": "Raja Denmark abad ke-10 Harald Blåtand",
+      "C": "Ilmuwan Swedia yang menciptakannya",
+      "D": "Warna chip yang digunakan",
+      "E": "Singkatan dari Basic Link Unified Ethernet Transmission Over Optical Technology Housing"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 15,
+    "section": "WiFi & Bluetooth",
+    "question": "Piconet dalam teknologi Bluetooth terdiri dari...",
+    "options": {
+      "A": "1 master dan maksimal 3 slave",
+      "B": "1 master dan maksimal 7 slave",
+      "C": "2 master dan maksimal 5 slave",
+      "D": "Tidak ada master, semua sejajar",
+      "E": "1 master dan slave tidak terbatas"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 16,
+    "section": "WiFi & Bluetooth",
+    "question": "Gabungan dari beberapa Piconet yang saling terhubung disebut...",
+    "options": {
+      "A": "Multiconet",
+      "B": "Superconet",
+      "C": "Scatternet",
+      "D": "Meganet",
+      "E": "Clusternet"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 17,
+    "section": "WiFi & Bluetooth",
+    "question": "Bluetooth 4.0 memperkenalkan fitur utama yang disebut...",
+    "options": {
+      "A": "Enhanced Data Rate (EDR)",
+      "B": "High Speed (HS)",
+      "C": "Low Energy (LE)",
+      "D": "Secure Simple Pairing (SSP)",
+      "E": "Adaptive Frequency Hopping (AFH)"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 18,
+    "section": "WiFi & Bluetooth",
+    "question": "Bluetooth 5.1 menambahkan fitur AoA dan AoD yang digunakan untuk...",
+    "options": {
+      "A": "Meningkatkan kecepatan transfer data",
+      "B": "Menentukan posisi lokasi perangkat seperti GPS",
+      "C": "Mengenkripsi data",
+      "D": "Mengurangi interferensi",
+      "E": "Memperluas jangkauan sinyal"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 19,
+    "section": "WiFi & Bluetooth",
+    "question": "Komponen Bluetooth yang berfungsi menghubungkan perangkat keras radio ke baseband processing adalah...",
+    "options": {
+      "A": "Link Manager",
+      "B": "SRAM",
+      "C": "Baseband Link Controller",
+      "D": "Voice Codec",
+      "E": "UART"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 20,
+    "section": "WiFi & Bluetooth",
+    "question": "LMP (Link Manager Protocol) pada Bluetooth bertanggung jawab untuk...",
+    "options": {
+      "A": "Mengirim data audio",
+      "B": "Mengatur frekuensi hopping",
+      "C": "Link setup, autentikasi, dan konfigurasi",
+      "D": "Mengatur tampilan layar",
+      "E": "Mengelola baterai perangkat"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 21,
+    "section": "WiFi & Bluetooth",
+    "question": "Alasan penggunaan Spread Spectrum pada Bluetooth adalah, kecuali...",
+    "options": {
+      "A": "Membatasi interferensi internal",
+      "B": "Menolak penyadapan informasi",
+      "C": "Meningkatkan jangkauan hingga 1 km",
+      "D": "Penggunaan yang lebih aman",
+      "E": "Noise yang lebih kecil"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 22,
+    "section": "WiFi & Bluetooth",
+    "question": "Bluetooth 2.0 + EDR memiliki kecepatan transfer maksimal...",
+    "options": {
+      "A": "1 Mbps",
+      "B": "3 Mbps",
+      "C": "24 Mbps",
+      "D": "100 Mbps",
+      "E": "720 kbps"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 23,
+    "section": "WiFi & Bluetooth",
+    "question": "Bluetooth 3.0 + HS mencapai kecepatan hingga 24 Mbps dengan menggunakan teknologi...",
+    "options": {
+      "A": "EDR (Enhanced Data Rate)",
+      "B": "LE (Low Energy)",
+      "C": "AMP via link 802.11",
+      "D": "FHSS tingkat lanjut",
+      "E": "MIMO Bluetooth"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 24,
+    "section": "WiFi & Bluetooth",
+    "question": "VPN menciptakan keamanan dengan cara membuat...",
+    "options": {
+      "A": "Enkripsi data di server",
+      "B": "Tunnel virtual yang aman dari perangkat ke server VPN",
+      "C": "Firewall tambahan di jaringan",
+      "D": "Filter MAC Address",
+      "E": "Blokir SSID agar tidak terdeteksi"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 25,
+    "section": "WiFi & Bluetooth",
+    "question": "Firewall berfungsi untuk, kecuali...",
+    "options": {
+      "A": "Membuat jaringan tidak terlihat di internet",
+      "B": "Memblokir pengguna tidak sah",
+      "C": "Memonitor aliran data jaringan",
+      "D": "Meningkatkan kecepatan internet",
+      "E": "Mengontrol data yang masuk dan keluar"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 26,
+    "section": "WiFi & Bluetooth",
+    "question": "Standar 802.11a beroperasi pada frekuensi 5 GHz dengan keunggulan utama...",
+    "options": {
+      "A": "Kompatibel dengan semua standar WiFi lainnya",
+      "B": "Lebih sedikit interferensi dari perangkat lain karena frekuensi 5 GHz",
+      "C": "Jangkauan paling jauh dari semua standar WiFi",
+      "D": "Kecepatan tertinggi dari semua standar WiFi",
+      "E": "Hemat daya paling baik"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 27,
+    "section": "WiFi & Bluetooth",
+    "question": "IEEE 802.11n dapat beroperasi pada frekuensi...",
+    "options": {
+      "A": "Hanya 2.4 GHz",
+      "B": "Hanya 5 GHz",
+      "C": "2.4 GHz maupun 5 GHz",
+      "D": "900 MHz dan 2.4 GHz",
+      "E": "5 GHz dan 6 GHz"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 28,
+    "section": "WiFi & Bluetooth",
+    "question": "Bluetooth 1.2 memperkenalkan fitur AFH yang merupakan singkatan dari...",
+    "options": {
+      "A": "Advanced Frequency Hopping",
+      "B": "Adaptive Frequency Hopping",
+      "C": "Alternate Frequency Handling",
+      "D": "Automatic Frequency Hopping",
+      "E": "Amplified Frequency Hopping"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 29,
+    "section": "WiFi & Bluetooth",
+    "question": "Salah satu strategi keamanan dasar WiFi adalah memblokir SSID agar tidak disiarkan. SSID adalah singkatan dari...",
+    "options": {
+      "A": "Secure Signal Identifier",
+      "B": "System Signal ID",
+      "C": "Service Set Identifier",
+      "D": "Subnet Signal Identification",
+      "E": "Static Service ID"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 30,
+    "section": "WiFi & Bluetooth",
+    "question": "Bluetooth dan WiFi berbagi pita frekuensi ISM yang sama, yaitu...",
+    "options": {
+      "A": "900 MHz",
+      "B": "1.8 GHz",
+      "C": "2.4 GHz",
+      "D": "5 GHz",
+      "E": "5.8 GHz"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 31,
+    "section": "Mobile Cellular & LBS",
+    "question": "Pada sistem GSM, VLR berfungsi sebagai...",
+    "options": {
+      "A": "Database pelanggan tetap (home)",
+      "B": "Database pelanggan yang sedang roaming/berkunjung",
+      "C": "Pusat autentikasi pelanggan",
+      "D": "Pusat switching telepon",
+      "E": "Database identitas perangkat"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 32,
+    "section": "Mobile Cellular & LBS",
+    "question": "Teknik Cell Splitting dilakukan untuk tujuan...",
+    "options": {
+      "A": "Mengurangi jumlah BTS",
+      "B": "Memperluas jangkauan sinyal ke daerah terpencil",
+      "C": "Menambah kapasitas layanan di area yang terlalu padat",
+      "D": "Mengurangi interferensi antar frekuensi",
+      "E": "Menghemat biaya infrastruktur"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 33,
+    "section": "Mobile Cellular & LBS",
+    "question": "Standar jaringan 3G menurut ITU adalah UMTS yang merupakan singkatan dari...",
+    "options": {
+      "A": "Universal Microwave Transmission System",
+      "B": "Universal Mobile Telecommunications System",
+      "C": "Unified Mobile Transfer Standard",
+      "D": "Universal Multiple Transmission Service",
+      "E": "Unified Microwave Technology System"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 34,
+    "section": "Mobile Cellular & LBS",
+    "question": "Teknologi GPRS menggunakan metode switching yang berbeda dari GSM, yaitu...",
+    "options": {
+      "A": "Circuit Switching",
+      "B": "Packet Switching",
+      "C": "Frame Switching",
+      "D": "Message Switching",
+      "E": "Cell Switching"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 35,
+    "section": "Mobile Cellular & LBS",
+    "question": "HSDPA (High Speed Downlink Packet Access) termasuk dalam generasi teknologi...",
+    "options": {
+      "A": "2G",
+      "B": "2.5G",
+      "C": "3G",
+      "D": "3.5G",
+      "E": "4G"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 36,
+    "section": "Mobile Cellular & LBS",
+    "question": "Metode penentuan lokasi yang paling akurat namun memerlukan perangkat GPS di ponsel adalah...",
+    "options": {
+      "A": "Cell of Origin (COO)",
+      "B": "Angle of Arrival (AOA)",
+      "C": "Time Difference of Arrival (TDOA)",
+      "D": "GPS-based Handset Centric",
+      "E": "Enhanced Observed Time Difference (E-OTD)"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 37,
+    "section": "Mobile Cellular & LBS",
+    "question": "FDMA (Frequency Division Multiple Access) memberikan akses dengan cara...",
+    "options": {
+      "A": "Membagi slot waktu untuk setiap pengguna",
+      "B": "Memberikan kode unik untuk setiap pengguna",
+      "C": "Menempatkan setiap panggilan pada frekuensi yang terpisah",
+      "D": "Membagi sel menjadi beberapa sektor",
+      "E": "Mengkombinasikan waktu dan frekuensi"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 38,
+    "section": "Mobile Cellular & LBS",
+    "question": "EIR (Equipment Identity Register) dalam arsitektur GSM berfungsi untuk...",
+    "options": {
+      "A": "Menyimpan data pelanggan tetap",
+      "B": "Melakukan switching panggilan",
+      "C": "Menyimpan database identitas perangkat (IMEI)",
+      "D": "Melakukan autentikasi pelanggan",
+      "E": "Menyimpan data pelanggan yang sedang roaming"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 39,
+    "section": "Mobile Cellular & LBS",
+    "question": "Pada sistem seluler analog, setiap cluster terdiri dari berapa sel berbentuk hexagonal?",
+    "options": {
+      "A": "5 sel",
+      "B": "6 sel",
+      "C": "7 sel",
+      "D": "9 sel",
+      "E": "12 sel"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 40,
+    "section": "Mobile Cellular & LBS",
+    "question": "Teknologi 4G LTE fokus pada arsitektur...",
+    "options": {
+      "A": "Circuit-switched untuk voice dan data",
+      "B": "All-IP (Internet Protocol)",
+      "C": "Hybrid circuit dan packet switching",
+      "D": "TDMA murni",
+      "E": "CDMA murni"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 41,
+    "section": "Mobile Cellular & LBS",
+    "question": "AUC (Authentication Center) dalam jaringan GSM bertanggung jawab untuk...",
+    "options": {
+      "A": "Melakukan switching panggilan",
+      "B": "Menyimpan data subscriber",
+      "C": "Autentikasi dan enkripsi komunikasi",
+      "D": "Memanajemen handover",
+      "E": "Mengidentifikasi perangkat"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 42,
+    "section": "Mobile Cellular & LBS",
+    "question": "E-OTD (Enhanced Observed Time Difference) merupakan peningkatan dari metode lokalisasi...",
+    "options": {
+      "A": "COO (Cell of Origin)",
+      "B": "AOA (Angle of Arrival)",
+      "C": "TDOA (Time Difference of Arrival)",
+      "D": "GPS",
+      "E": "A-GPS"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 43,
+    "section": "Mobile Cellular & LBS",
+    "question": "Standar 1G yang digunakan di Amerika Serikat dikenal dengan nama...",
+    "options": {
+      "A": "NMT",
+      "B": "TACS",
+      "C": "AMPS",
+      "D": "GSM",
+      "E": "PDC"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 44,
+    "section": "Mobile Cellular & LBS",
+    "question": "Keunggulan CDMA dibandingkan FDMA dan TDMA yang paling signifikan adalah...",
+    "options": {
+      "A": "Menggunakan frekuensi yang berbeda untuk setiap pengguna",
+      "B": "Kapasitas lebih besar dan interferensi lebih rendah",
+      "C": "Biaya implementasi lebih murah",
+      "D": "Jangkauan sinyal lebih luas",
+      "E": "Kompatibel dengan perangkat lama"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 45,
+    "section": "Mobile Cellular & LBS",
+    "question": "Prinsip frekuensi reuse pada sistem seluler memungkinkan...",
+    "options": {
+      "A": "Satu frekuensi digunakan hanya di satu sel",
+      "B": "Frekuensi yang sama digunakan di sel-sel yang tidak bertetangga",
+      "C": "Semua sel menggunakan semua frekuensi secara bersamaan",
+      "D": "Frekuensi diubah setiap saat",
+      "E": "Tidak ada batas penggunaan frekuensi"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 46,
+    "section": "Mobile Cellular & LBS",
+    "question": "Saat pengguna mobile berpindah dari satu sel ke sel lain, sinyal dipindahkan tanpa putus melalui proses...",
+    "options": {
+      "A": "Roaming",
+      "B": "Switching",
+      "C": "Handover/Handoff",
+      "D": "Tunneling",
+      "E": "Bridging"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 47,
+    "section": "Mobile Cellular & LBS",
+    "question": "Telematika adalah konvergensi dari teknologi...",
+    "options": {
+      "A": "Komputer, telekomunikasi, dan otomotif",
+      "B": "Komputer, informasi, komunikasi, dan penyiaran",
+      "C": "Internet, mobile, dan komputasi awan",
+      "D": "Hardware, software, dan jaringan",
+      "E": "Radio, TV, dan internet"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 48,
+    "section": "Mobile Cellular & LBS",
+    "question": "Pada GSM 900, frekuensi untuk uplink (dari ponsel ke BTS) berada di rentang...",
+    "options": {
+      "A": "935-960 MHz",
+      "B": "869-894 MHz",
+      "C": "890-915 MHz",
+      "D": "1710-1785 MHz",
+      "E": "824-849 MHz"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 49,
+    "section": "Mobile Cellular & LBS",
+    "question": "Teknologi 5G memiliki keunggulan utama dibandingkan 4G dalam hal...",
+    "options": {
+      "A": "Ukuran perangkat yang lebih kecil",
+      "B": "Latensi sangat rendah dan kecepatan tinggi",
+      "C": "Biaya lebih murah",
+      "D": "Kompatibel dengan semua perangkat lama",
+      "E": "Jangkauan sinyal lebih luas"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 50,
+    "section": "Mobile Cellular & LBS",
+    "question": "MIN dalam sistem seluler analog merupakan singkatan dari...",
+    "options": {
+      "A": "Mobile Identification Number",
+      "B": "Mobile Internet Node",
+      "C": "Multiple Input Network",
+      "D": "Mobile Interface Number",
+      "E": "Medium Identification Node"
+    },
+    "correct": "A"
+  },
+  {
+    "id": 51,
+    "section": "Mobile Cellular & LBS",
+    "question": "Network-centric dalam teknik lokalisasi berarti penentuan lokasi dilakukan oleh...",
+    "options": {
+      "A": "Perangkat ponsel pengguna",
+      "B": "Jaringan operator/infrastruktur",
+      "C": "Server GPS satelit",
+      "D": "Content provider",
+      "E": "Aplikasi di ponsel"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 52,
+    "section": "Mobile Cellular & LBS",
+    "question": "WCDMA (Wideband CDMA) merupakan teknologi standar untuk jaringan...",
+    "options": {
+      "A": "2G",
+      "B": "2.5G",
+      "C": "3G",
+      "D": "4G",
+      "E": "5G"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 53,
+    "section": "Mobile Cellular & LBS",
+    "question": "Kecepatan data EDGE (Enhanced Data rates for GSM Evolution) dikategorikan sebagai generasi...",
+    "options": {
+      "A": "2G",
+      "B": "2.5G",
+      "C": "2.75G",
+      "D": "3G",
+      "E": "3.5G"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 54,
+    "section": "Mobile Cellular & LBS",
+    "question": "Salah satu kelemahan teknologi mobile yang berkaitan dengan keamanan adalah...",
+    "options": {
+      "A": "Konsumsi daya baterai",
+      "B": "Ukuran layar yang kecil",
+      "C": "Kerawanan penyadapan dan serangan jaringan",
+      "D": "Keterbatasan memori",
+      "E": "Harga perangkat yang mahal"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 55,
+    "section": "Mobile Cellular & LBS",
+    "question": "Solusi terbaik untuk meminimalisir latensi pada aplikasi mobile adalah...",
+    "options": {
+      "A": "Menambah memori perangkat",
+      "B": "Mengurangi round trip pada jaringan",
+      "C": "Menggunakan prosesor lebih cepat",
+      "D": "Meningkatkan resolusi layar",
+      "E": "Menggunakan baterai lebih besar"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 56,
+    "section": "Mobile Cellular & LBS",
+    "question": "HarmonyOS yang dikembangkan Huawei menggunakan jenis kernel...",
+    "options": {
+      "A": "Monolithic Kernel",
+      "B": "Hybrid Kernel",
+      "C": "Exokernel",
+      "D": "Microkernel",
+      "E": "Linux Kernel"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 57,
+    "section": "Mobile Cellular & LBS",
+    "question": "Sistem operasi Android dikembangkan berdasarkan kernel...",
+    "options": {
+      "A": "Windows NT Kernel",
+      "B": "Mach Kernel",
+      "C": "Linux Kernel",
+      "D": "XNU Kernel",
+      "E": "BSD Kernel"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 58,
+    "section": "Mobile Cellular & LBS",
+    "question": "Mobile Commerce (M-Commerce) adalah penerapan mobile technology pada bidang...",
+    "options": {
+      "A": "Pendidikan jarak jauh",
+      "B": "Kesehatan mobile",
+      "C": "Business to Business atau transaksi bisnis",
+      "D": "Navigasi kendaraan",
+      "E": "Hiburan digital"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 59,
+    "section": "Mobile Cellular & LBS",
+    "question": "Transmisi GSM menyediakan jumlah kanal full duplex sebanyak...",
+    "options": {
+      "A": "64 kanal",
+      "B": "124 kanal",
+      "C": "256 kanal",
+      "D": "374 kanal",
+      "E": "512 kanal"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 60,
+    "section": "Mobile Cellular & LBS",
+    "question": "Perangkat yang BUKAN termasuk dalam kategori mobile computing adalah...",
+    "options": {
+      "A": "Laptop dengan wireless LAN",
+      "B": "PDA dengan Bluetooth",
+      "C": "Wearable computer",
+      "D": "BSC (Base Station Controller) Machine",
+      "E": "Mobile phone"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 61,
+    "section": "Dart & Flutter",
+    "question": "Dart mendukung paradigma pemrograman berikut ini...",
+    "options": {
+      "A": "Hanya OOP",
+      "B": "Hanya Fungsional",
+      "C": "Hanya Prosedural",
+      "D": "OOP, Fungsional, dan Prosedural",
+      "E": "Hanya OOP dan Fungsional"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 62,
+    "section": "Dart & Flutter",
+    "question": "Perhatikan kode berikut: var list = [1,2,3]; list.add(4); print(list.length); Output yang dihasilkan adalah...",
+    "options": {
+      "A": "3",
+      "B": "4",
+      "C": "1",
+      "D": "Error",
+      "E": "[1,2,3,4]"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 63,
+    "section": "Dart & Flutter",
+    "question": "Tipe data yang digunakan untuk menyimpan nilai true/false di Dart adalah...",
+    "options": {
+      "A": "bit",
+      "B": "flag",
+      "C": "bool",
+      "D": "int",
+      "E": "binary"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 64,
+    "section": "Dart & Flutter",
+    "question": "Pernyataan yang benar tentang keyword 'var' di Dart adalah...",
+    "options": {
+      "A": "Tipe data harus dideklarasikan secara eksplisit",
+      "B": "Tipe data diinferensikan secara otomatis oleh compiler",
+      "C": "Nilainya tidak dapat diubah setelah inisialisasi",
+      "D": "Hanya bisa menyimpan tipe data primitif",
+      "E": "Sama seperti 'final'"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 65,
+    "section": "Dart & Flutter",
+    "question": "Cascade notation (..) di Dart digunakan untuk...",
+    "options": {
+      "A": "Membuat objek baru dari class",
+      "B": "Menjalankan beberapa operasi pada objek yang sama",
+      "C": "Menghubungkan dua List",
+      "D": "Membuat inheritance",
+      "E": "Memanggil method secara rekursif"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 66,
+    "section": "Dart & Flutter",
+    "question": "Output dari kode berikut: print(10 ~/ 3);",
+    "options": {
+      "A": "3.33",
+      "B": "3",
+      "C": "1",
+      "D": "10",
+      "E": "Error"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 67,
+    "section": "Dart & Flutter",
+    "question": "Perbedaan Set dan List di Dart adalah...",
+    "options": {
+      "A": "Set lebih lambat dari List",
+      "B": "List tidak bisa kosong",
+      "C": "Set tidak bisa memiliki elemen duplikat",
+      "D": "List hanya menyimpan String",
+      "E": "Set hanya menyimpan angka"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 68,
+    "section": "Dart & Flutter",
+    "question": "Untuk mendeklarasikan method yang tidak mengembalikan nilai di Dart, digunakan keyword...",
+    "options": {
+      "A": "null",
+      "B": "empty",
+      "C": "void",
+      "D": "none",
+      "E": "noReturn"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 69,
+    "section": "Dart & Flutter",
+    "question": "Kode String nama = 'Flutter'; print(nama.toUpperCase()); akan menghasilkan...",
+    "options": {
+      "A": "flutter",
+      "B": "Flutter",
+      "C": "FLUTTER",
+      "D": "Error",
+      "E": "null"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 70,
+    "section": "Dart & Flutter",
+    "question": "Constructor default dalam class Dart adalah...",
+    "options": {
+      "A": "Constructor dengan parameter wajib",
+      "B": "Constructor tanpa parameter",
+      "C": "Static constructor",
+      "D": "Private constructor",
+      "E": "Abstract constructor"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 71,
+    "section": "Dart & Flutter",
+    "question": "Di Dart, method static bisa dipanggil tanpa membuat...",
+    "options": {
+      "A": "Import library",
+      "B": "Objek dari class",
+      "C": "Parameter",
+      "D": "Return value",
+      "E": "Konstruktor"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 72,
+    "section": "Dart & Flutter",
+    "question": "Nilai default dari variabel yang belum diinisialisasi di Dart adalah...",
+    "options": {
+      "A": "0",
+      "B": "false",
+      "C": "empty string",
+      "D": "null",
+      "E": "undefined"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 73,
+    "section": "Dart & Flutter",
+    "question": "Untuk memeriksa apakah variabel bertipe tertentu di Dart, digunakan operator...",
+    "options": {
+      "A": "typeof",
+      "B": "instanceof",
+      "C": "is",
+      "D": "checkType",
+      "E": "as"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 74,
+    "section": "Dart & Flutter",
+    "question": "Output dari: var x = 5; var y = 2; print(x % y);",
+    "options": {
+      "A": "2",
+      "B": "2.5",
+      "C": "0",
+      "D": "1",
+      "E": "Error"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 75,
+    "section": "Dart & Flutter",
+    "question": "Library standar Dart untuk operasi dasar seperti List, Map, String yang TIDAK perlu diimpor adalah...",
+    "options": {
+      "A": "dart:io",
+      "B": "dart:async",
+      "C": "dart:core",
+      "D": "dart:convert",
+      "E": "dart:html"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 76,
+    "section": "Dart & Flutter",
+    "question": "Fungsi jsonDecode() di Dart digunakan untuk...",
+    "options": {
+      "A": "Mengubah objek Dart menjadi JSON string",
+      "B": "Mengubah JSON string menjadi objek Dart",
+      "C": "Mengenkripsi data JSON",
+      "D": "Memvalidasi format JSON",
+      "E": "Mengirim data JSON ke server"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 77,
+    "section": "Dart & Flutter",
+    "question": "Perbedaan 'async' dan 'await' di Dart adalah...",
+    "options": {
+      "A": "async dan await berfungsi sama",
+      "B": "async menandai fungsi asinkron, await menunggu hasil Future selesai",
+      "C": "await digunakan di luar fungsi async",
+      "D": "async menghentikan eksekusi program",
+      "E": "await hanya untuk HTTP request"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 78,
+    "section": "Dart & Flutter",
+    "question": "Apa output dari kode: List<int> nums = [1,2,3]; print(nums.first);?",
+    "options": {
+      "A": "3",
+      "B": "0",
+      "C": "1",
+      "D": "[1]",
+      "E": "Error"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 79,
+    "section": "Dart & Flutter",
+    "question": "Di Flutter, perbedaan utama StatelessWidget dan StatefulWidget adalah...",
+    "options": {
+      "A": "StatelessWidget lebih lambat dari StatefulWidget",
+      "B": "StatefulWidget tidak bisa menerima parameter",
+      "C": "StatelessWidget tidak memiliki state yang bisa berubah, StatefulWidget memiliki state yang bisa diperbarui",
+      "D": "StatelessWidget tidak bisa menampilkan teks",
+      "E": "Tidak ada perbedaan, hanya nama berbeda"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 80,
+    "section": "Dart & Flutter",
+    "question": "Metode dispose() pada StatefulWidget dipanggil ketika...",
+    "options": {
+      "A": "Widget pertama kali dibuat",
+      "B": "setState() dipanggil",
+      "C": "Widget dihapus dari Widget Tree secara permanen",
+      "D": "Aplikasi di-minimize",
+      "E": "Orientasi layar berubah"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 81,
+    "section": "Dart & Flutter",
+    "question": "Widget Container di Flutter memiliki fungsi utama sebagai...",
+    "options": {
+      "A": "Menampilkan teks saja",
+      "B": "Kotak serbaguna yang bisa diberi padding, margin, warna, ukuran",
+      "C": "Hanya untuk layout horizontal",
+      "D": "Menampilkan gambar",
+      "E": "Tombol yang bisa diklik"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 82,
+    "section": "Dart & Flutter",
+    "question": "Widget Flutter yang digunakan untuk menumpuk widget satu di atas yang lain adalah...",
+    "options": {
+      "A": "Column",
+      "B": "Row",
+      "C": "Stack",
+      "D": "Grid",
+      "E": "Wrap"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 83,
+    "section": "Dart & Flutter",
+    "question": "Properti mainAxisAlignment pada widget Column mengatur posisi widget secara...",
+    "options": {
+      "A": "Horizontal",
+      "B": "Vertikal (sumbu utama Column)",
+      "C": "Diagonal",
+      "D": "Rotasi",
+      "E": "Absolute positioning"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 84,
+    "section": "Dart & Flutter",
+    "question": "Untuk menampilkan grid (kisi) di Flutter, digunakan widget...",
+    "options": {
+      "A": "ListView",
+      "B": "Column",
+      "C": "Row",
+      "D": "GridView",
+      "E": "Wrap"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 85,
+    "section": "Dart & Flutter",
+    "question": "Widget Expanded di Flutter digunakan di dalam Row/Column untuk...",
+    "options": {
+      "A": "Membuat widget menghilang",
+      "B": "Mengisi ruang yang tersedia secara proporsional",
+      "C": "Membuat widget dapat di-scroll",
+      "D": "Menambah animasi",
+      "E": "Membuat widget fixed size"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 86,
+    "section": "Dart & Flutter",
+    "question": "FloatingActionButton di Flutter adalah tombol yang...",
+    "options": {
+      "A": "Tersembunyi di dalam menu",
+      "B": "Mengapung di atas konten layar",
+      "C": "Terdapat di AppBar",
+      "D": "Selalu di bagian bawah layar",
+      "E": "Muncul saat scrolling"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 87,
+    "section": "Dart & Flutter",
+    "question": "Untuk menampilkan dialog pop-up konfirmasi di Flutter, digunakan widget...",
+    "options": {
+      "A": "SnackBar",
+      "B": "Toast",
+      "C": "AlertDialog",
+      "D": "BottomSheet",
+      "E": "Tooltip"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 88,
+    "section": "Dart & Flutter",
+    "question": "Method initState() pada StatefulWidget dipanggil...",
+    "options": {
+      "A": "Setiap kali UI di-rebuild",
+      "B": "Saat setState() dipanggil",
+      "C": "Hanya sekali saat State object pertama kali dibuat",
+      "D": "Saat aplikasi di-pause",
+      "E": "Saat navigasi ke halaman lain"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 89,
+    "section": "Dart & Flutter",
+    "question": "Arsitektur MVP berbeda dengan MVC karena pada MVP...",
+    "options": {
+      "A": "View langsung berkomunikasi dengan Model",
+      "B": "Presenter menggantikan Controller dan memiliki referensi ke View",
+      "C": "Model tidak memiliki logika bisnis",
+      "D": "Controller bertanggung jawab atas UI",
+      "E": "ViewModel digunakan sebagai jembatan"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 90,
+    "section": "Dart & Flutter",
+    "question": "Pada arsitektur MVVM, mekanisme yang menghubungkan View dan ViewModel adalah...",
+    "options": {
+      "A": "Direct method call",
+      "B": "Intent",
+      "C": "Data Binding",
+      "D": "Broadcast Receiver",
+      "E": "Service"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 91,
+    "section": "Dart & Flutter",
+    "question": "Pada arsitektur MVC, komponen yang bertanggung jawab menyimpan data dan logika bisnis adalah...",
+    "options": {
+      "A": "View",
+      "B": "Controller",
+      "C": "Model",
+      "D": "Presenter",
+      "E": "ViewModel"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 92,
+    "section": "Dart & Flutter",
+    "question": "Kelemahan utama arsitektur MVC dalam pengembangan mobile adalah...",
+    "options": {
+      "A": "Tidak bisa digunakan untuk aplikasi besar",
+      "B": "Controller sering menjadi sangat besar dan sulit dikelola (Massive View Controller)",
+      "C": "View tidak bisa dipisah dari Model",
+      "D": "Tidak mendukung database",
+      "E": "Tidak bisa diuji (untestable)"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 93,
+    "section": "Dart & Flutter",
+    "question": "Flutter dikompilasi menjadi kode native tanpa bridging, hal ini menjadi keunggulan dibanding React Native dalam hal...",
+    "options": {
+      "A": "Kemudahan belajar",
+      "B": "Performa aplikasi yang lebih cepat",
+      "C": "Ukuran aplikasi yang lebih kecil",
+      "D": "Kompatibilitas dengan web",
+      "E": "Jumlah library yang tersedia"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 94,
+    "section": "Dart & Flutter",
+    "question": "File pubspec.yaml pada proyek Flutter, selain mengelola dependencies, juga digunakan untuk...",
+    "options": {
+      "A": "Menyimpan konfigurasi Android",
+      "B": "Mendefinisikan asset seperti gambar dan font",
+      "C": "Menyimpan state aplikasi",
+      "D": "Mengatur routing halaman",
+      "E": "Menyimpan data pengguna"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 95,
+    "section": "Dart & Flutter",
+    "question": "Untuk membuat animasi sederhana di Flutter, widget yang bisa digunakan adalah...",
+    "options": {
+      "A": "StatelessWidget",
+      "B": "AnimatedContainer",
+      "C": "Container",
+      "D": "Row",
+      "E": "Column"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 96,
+    "section": "Dart & Flutter",
+    "question": "Apa output dari kode Dart berikut? int a = 10; a += 5; print(a);",
+    "options": {
+      "A": "5",
+      "B": "10",
+      "C": "15",
+      "D": "50",
+      "E": "Error"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 97,
+    "section": "Dart & Flutter",
+    "question": "Widget SafeArea di Flutter digunakan untuk...",
+    "options": {
+      "A": "Mengamankan data pengguna",
+      "B": "Memastikan widget tidak tertutup oleh notch atau status bar",
+      "C": "Membuat koneksi HTTPS",
+      "D": "Memvalidasi input pengguna",
+      "E": "Mengenkripsi data lokal"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 98,
+    "section": "Dart & Flutter",
+    "question": "Untuk membuat aplikasi Flutter mendukung tema gelap (Dark Mode), kita mengaturnya di...",
+    "options": {
+      "A": "Scaffold",
+      "B": "AppBar",
+      "C": "MaterialApp dengan property darkTheme",
+      "D": "Container",
+      "E": "Column"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 99,
+    "section": "Dart & Flutter",
+    "question": "Apa yang dilakukan Navigator.pushReplacement() di Flutter?",
+    "options": {
+      "A": "Menambah halaman baru di atas halaman saat ini",
+      "B": "Kembali ke halaman sebelumnya",
+      "C": "Mengganti halaman saat ini dengan halaman baru (tidak bisa kembali)",
+      "D": "Menghapus semua history navigasi",
+      "E": "Membuka halaman di tab baru"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 100,
+    "section": "Dart & Flutter",
+    "question": "Class abstrak di Dart ditandai dengan keyword...",
+    "options": {
+      "A": "interface",
+      "B": "virtual",
+      "C": "abstract",
+      "D": "base",
+      "E": "super"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 101,
+    "section": "Cloud Computing & Web Service",
+    "question": "Grid Computing berbeda dari Cloud Computing karena Grid Computing...",
+    "options": {
+      "A": "Menggunakan jaringan internet",
+      "B": "Menghubungkan banyak komputer untuk menyelesaikan satu tugas besar secara bersamaan",
+      "C": "Menyediakan layanan secara on-demand",
+      "D": "Berbasis virtualisasi server",
+      "E": "Menggunakan pembayaran berbasis penggunaan"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 102,
+    "section": "Cloud Computing & Web Service",
+    "question": "Utility Computing merupakan konsep cloud computing dimana...",
+    "options": {
+      "A": "Layanan tersedia 24/7 tanpa henti",
+      "B": "Pengguna hanya membayar apa yang digunakan",
+      "C": "Sumber daya dibagi ke banyak pengguna",
+      "D": "Kapasitas dapat ditingkatkan otomatis",
+      "E": "Tidak memerlukan koneksi internet"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 103,
+    "section": "Cloud Computing & Web Service",
+    "question": "Google App Engine adalah contoh layanan cloud jenis...",
+    "options": {
+      "A": "IaaS",
+      "B": "SaaS",
+      "C": "PaaS",
+      "D": "DaaS",
+      "E": "NaaS"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 104,
+    "section": "Cloud Computing & Web Service",
+    "question": "Amazon VPC (Virtual Private Cloud) adalah contoh layanan jenis...",
+    "options": {
+      "A": "SaaS",
+      "B": "PaaS",
+      "C": "IaaS",
+      "D": "DaaS",
+      "E": "FaaS"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 105,
+    "section": "Cloud Computing & Web Service",
+    "question": "Community Cloud adalah jenis cloud yang...",
+    "options": {
+      "A": "Dikelola oleh satu perusahaan saja",
+      "B": "Dapat diakses publik secara bebas",
+      "C": "Digunakan bersama oleh beberapa organisasi dengan kepentingan yang sama",
+      "D": "Kombinasi public dan private cloud",
+      "E": "Dikelola sepenuhnya oleh pihak ketiga"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 106,
+    "section": "Cloud Computing & Web Service",
+    "question": "Karakteristik cloud computing yang memungkinkan sumber daya dialokasikan secara dinamis untuk banyak konsumen disebut...",
+    "options": {
+      "A": "Rapid Elasticity",
+      "B": "On-Demand Self-Service",
+      "C": "Broad Network Access",
+      "D": "Resource Pooling",
+      "E": "Measured Service"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 107,
+    "section": "Cloud Computing & Web Service",
+    "question": "Kode status HTTP yang menandakan bahwa request berhasil adalah...",
+    "options": {
+      "A": "404",
+      "B": "500",
+      "C": "200",
+      "D": "301",
+      "E": "403"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 108,
+    "section": "Cloud Computing & Web Service",
+    "question": "Kode status HTTP 500 berarti...",
+    "options": {
+      "A": "Not Found",
+      "B": "Forbidden",
+      "C": "Internal Server Error",
+      "D": "Bad Request",
+      "E": "Unauthorized"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 109,
+    "section": "Cloud Computing & Web Service",
+    "question": "SOAP (Simple Object Access Protocol) dalam Web Service menggunakan format pesan berbasis...",
+    "options": {
+      "A": "JSON",
+      "B": "HTML",
+      "C": "XML",
+      "D": "YAML",
+      "E": "CSV"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 110,
+    "section": "Cloud Computing & Web Service",
+    "question": "Tiga operasi yang terlibat dalam Web Service adalah...",
+    "options": {
+      "A": "Login, Search, Bind",
+      "B": "Publish, Find, Bind",
+      "C": "Create, Read, Update",
+      "D": "Request, Process, Response",
+      "E": "Connect, Transfer, Disconnect"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 111,
+    "section": "Cloud Computing & Web Service",
+    "question": "UDDI (Universal Description, Discovery, and Integration) pada Web Service berfungsi sebagai...",
+    "options": {
+      "A": "Protokol pengiriman pesan",
+      "B": "Format deskripsi layanan",
+      "C": "Direktori untuk mendaftarkan dan menemukan Web Service",
+      "D": "Enkripsi data Web Service",
+      "E": "Load balancer Web Service"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 112,
+    "section": "Cloud Computing & Web Service",
+    "question": "RESTful API menggunakan metode HTTP berikut untuk membuat (create) data baru...",
+    "options": {
+      "A": "GET",
+      "B": "PUT",
+      "C": "DELETE",
+      "D": "POST",
+      "E": "PATCH"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 113,
+    "section": "Cloud Computing & Web Service",
+    "question": "Perbedaan antara Web Service dan API adalah...",
+    "options": {
+      "A": "API dan Web Service sama persis",
+      "B": "Web Service selalu membutuhkan jaringan, API tidak selalu",
+      "C": "API tidak bisa digunakan untuk web",
+      "D": "Web Service lebih modern dari API",
+      "E": "API hanya untuk mobile"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 114,
+    "section": "Cloud Computing & Web Service",
+    "question": "Port yang digunakan untuk protokol HTTPS (HTTP Secure) adalah...",
+    "options": {
+      "A": "80",
+      "B": "443",
+      "C": "8080",
+      "D": "21",
+      "E": "22"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 115,
+    "section": "Cloud Computing & Web Service",
+    "question": "Protokol yang digunakan untuk mengakses SSH sekaligus transfer file adalah...",
+    "options": {
+      "A": "FTP",
+      "B": "FTPS",
+      "C": "SFTP",
+      "D": "SCP",
+      "E": "TFTP"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 116,
+    "section": "Cloud Computing & Web Service",
+    "question": "SNMP (Simple Network Management Protocol) digunakan untuk...",
+    "options": {
+      "A": "Transfer file antar server",
+      "B": "Memantau dan mengelola perangkat jaringan (router, printer, server)",
+      "C": "Mengirim email",
+      "D": "Resolusi nama domain",
+      "E": "Konfigurasi IP otomatis"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 117,
+    "section": "Cloud Computing & Web Service",
+    "question": "DHCP (Dynamic Host Configuration Protocol) berfungsi untuk...",
+    "options": {
+      "A": "Menerjemahkan nama domain ke IP",
+      "B": "Mengalokasikan alamat IP secara otomatis ke perangkat",
+      "C": "Mengenkripsi data jaringan",
+      "D": "Memblokir akses tidak sah",
+      "E": "Mengatur routing antar jaringan"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 118,
+    "section": "Cloud Computing & Web Service",
+    "question": "Sistem file yang pertama kali dirancang khusus untuk Linux adalah...",
+    "options": {
+      "A": "NTFS",
+      "B": "FAT32",
+      "C": "exFAT",
+      "D": "EXT",
+      "E": "HFS+"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 119,
+    "section": "Cloud Computing & Web Service",
+    "question": "Para-Virtualization berbeda dari Full-Virtualization karena...",
+    "options": {
+      "A": "Para-Virtualization mensimulasikan hardware secara penuh",
+      "B": "Para-Virtualization menggunakan API khusus dan memerlukan modifikasi OS Guest",
+      "C": "Full-Virtualization lebih efisien dari Para-Virtualization",
+      "D": "Para-Virtualization tidak menggunakan Hypervisor",
+      "E": "Tidak ada perbedaan"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 120,
+    "section": "Cloud Computing & Web Service",
+    "question": "Tier 1 storage direkomendasikan untuk...",
+    "options": {
+      "A": "Backup data jarang diakses",
+      "B": "Primary storage dengan performa tinggi",
+      "C": "Secondary storage",
+      "D": "Cold storage",
+      "E": "Archive storage"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 121,
+    "section": "Cloud Computing & Web Service",
+    "question": "VDI (Virtual Desktop Interface) memungkinkan...",
+    "options": {
+      "A": "Sharing file antar pengguna",
+      "B": "Pengguna berinteraksi dengan server seakan berada langsung di server tersebut",
+      "C": "Enkripsi data desktop",
+      "D": "Backup desktop otomatis",
+      "E": "Streaming video ke desktop"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 122,
+    "section": "Cloud Computing & Web Service",
+    "question": "Shared Hosting memiliki kelemahan...",
+    "options": {
+      "A": "Harga yang terlalu mahal",
+      "B": "Tidak bisa mengelola website",
+      "C": "Kecepatan menurun ketika banyak pengguna menggunakan resource besar secara bersamaan",
+      "D": "Tidak bisa menginstall aplikasi",
+      "E": "Keamanan terlalu ketat"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 123,
+    "section": "Cloud Computing & Web Service",
+    "question": "SOA (Service-Oriented Architecture) adalah pendekatan arsitektur dimana...",
+    "options": {
+      "A": "Semua fungsi dalam satu aplikasi monolitik",
+      "B": "Fungsi-fungsi aplikasi diekspos sebagai layanan yang dapat digunakan ulang",
+      "C": "Aplikasi berjalan tanpa koneksi internet",
+      "D": "Data tersimpan hanya di satu server pusat",
+      "E": "Setiap pengguna memiliki server sendiri"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 124,
+    "section": "Cloud Computing & Web Service",
+    "question": "Parallel Computing adalah konsep komputasi dimana...",
+    "options": {
+      "A": "Satu prosesor mengerjakan banyak tugas bergantian",
+      "B": "Banyak perhitungan dilakukan secara simultan dengan membagi masalah besar menjadi lebih kecil",
+      "C": "Komputasi dilakukan di cloud",
+      "D": "Komputasi didistribusikan ke banyak server",
+      "E": "Prosesor bekerja secara serial"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 125,
+    "section": "Cloud Computing & Web Service",
+    "question": "Yang BUKAN merupakan karakteristik dari Cloud Computing adalah...",
+    "options": {
+      "A": "On-Demand Self-Service",
+      "B": "Broad Network Access",
+      "C": "Resource Pooling",
+      "D": "Grid Computing",
+      "E": "Rapid Elasticity"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 126,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Dalam struktur proyek Android, file build.gradle yang mendefinisikan konfigurasi berlaku untuk semua modul terletak di...",
+    "options": {
+      "A": "Folder app/",
+      "B": "Folder src/",
+      "C": "Root project (build.gradle tingkat project)",
+      "D": "Folder res/",
+      "E": "Folder assets/"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 127,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Komponen Android yang berjalan di background tanpa antarmuka pengguna disebut...",
+    "options": {
+      "A": "Activity",
+      "B": "Service",
+      "C": "Content Provider",
+      "D": "Broadcast Receiver",
+      "E": "Fragment"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 128,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Broadcast Receiver pada Android digunakan untuk...",
+    "options": {
+      "A": "Menampilkan UI kepada pengguna",
+      "B": "Mengelola data aplikasi",
+      "C": "Merespons pesan broadcast dari sistem atau aplikasi lain",
+      "D": "Menjalankan tugas background jangka panjang",
+      "E": "Mengatur navigasi antar halaman"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 129,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Mesin virtual Android yang digunakan pada Android 5.0 ke atas (menggantikan Dalvik) adalah...",
+    "options": {
+      "A": "JVM",
+      "B": "DVM",
+      "C": "ART (Android Runtime)",
+      "D": "CLR",
+      "E": "V8 Engine"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 130,
+    "section": "Android & Pengembangan Mobile",
+    "question": "SQLite pada Android adalah database...",
+    "options": {
+      "A": "Server-based yang memerlukan koneksi jaringan",
+      "B": "Relasional yang ringan dan dirancang untuk perangkat sederhana",
+      "C": "NoSQL berbasis dokumen",
+      "D": "Database berbasis cloud",
+      "E": "In-memory database"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 131,
+    "section": "Android & Pengembangan Mobile",
+    "question": "UTF-8 yang digunakan dalam file XML pemrograman Android adalah...",
+    "options": {
+      "A": "Tipe enkripsi data",
+      "B": "Pengkodean karakter dengan lebar tertentu",
+      "C": "Protokol komunikasi",
+      "D": "Format gambar",
+      "E": "Jenis database"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 132,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Pada RecyclerView di Android, proses menerapkan layout menggunakan bahasa pemrograman...",
+    "options": {
+      "A": "JSON",
+      "B": "Kotlin",
+      "C": "Java",
+      "D": "XML",
+      "E": "JavaScript"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 133,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Tag <data> dalam Android Manifest digunakan untuk...",
+    "options": {
+      "A": "Mendefinisikan permission aplikasi",
+      "B": "Mendeklarasikan tipe MIME, URL, authority, dan path yang digunakan",
+      "C": "Menyimpan data konfigurasi",
+      "D": "Mendefinisikan activity utama",
+      "E": "Menentukan target SDK"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 134,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Xamarin menggunakan bahasa pemrograman untuk pengembangan cross-platform...",
+    "options": {
+      "A": "JavaScript",
+      "B": "Dart",
+      "C": "C#",
+      "D": "Swift",
+      "E": "Kotlin"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 135,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Ionic Framework menggunakan teknologi web berikut untuk membuat aplikasi hybrid...",
+    "options": {
+      "A": "Dart dan Flutter",
+      "B": "HTML5, CSS, dan JavaScript",
+      "C": "Swift dan Objective-C",
+      "D": "Java dan Kotlin",
+      "E": "C# dan .NET"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 136,
+    "section": "Android & Pengembangan Mobile",
+    "question": "White-box testing adalah pengujian yang dilakukan dengan cara...",
+    "options": {
+      "A": "Menguji antarmuka pengguna tanpa melihat kode",
+      "B": "Membedah dan menganalisis source code",
+      "C": "Menguji aplikasi dari perspektif pengguna akhir",
+      "D": "Otomatis menggunakan tools seperti Selenium",
+      "E": "Menguji performa pada kondisi beban tinggi"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 137,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Mobile First Design adalah pendekatan desain yang...",
+    "options": {
+      "A": "Mengutamakan desain desktop terlebih dahulu",
+      "B": "Mendesain untuk layar mobile/kecil terlebih dahulu sebelum desktop",
+      "C": "Hanya membuat aplikasi untuk mobile",
+      "D": "Mengabaikan desain desktop",
+      "E": "Membuat desain responsif secara otomatis"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 138,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Apache Cordova digunakan untuk...",
+    "options": {
+      "A": "Membangun aplikasi native Android",
+      "B": "Mengakses API perangkat (kamera, GPS) dari aplikasi HTML5/JavaScript",
+      "C": "Membangun backend server",
+      "D": "Desain UI mobile",
+      "E": "Testing aplikasi mobile"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 139,
+    "section": "Android & Pengembangan Mobile",
+    "question": "AOC (Always-On Client) memiliki karakteristik...",
+    "options": {
+      "A": "Dapat bekerja efektif tanpa koneksi internet",
+      "B": "Harus terhubung ke jaringan sebagian besar atau sepanjang waktu",
+      "C": "Menyimpan semua data secara lokal",
+      "D": "Sinkronisasi dilakukan hanya ketika ada koneksi",
+      "E": "Menggunakan lebih sedikit bandwidth"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 140,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Intents pada Android digunakan untuk...",
+    "options": {
+      "A": "Menyimpan data secara permanen",
+      "B": "Perpindahan halaman (Activity) dan komunikasi antar komponen",
+      "C": "Menampilkan notifikasi push",
+      "D": "Mengakses kamera perangkat",
+      "E": "Mengelola database SQLite"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 141,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Pemrograman android menggunakan kombinasi bahasa...",
+    "options": {
+      "A": "XML dan PHP",
+      "B": "Java dan Python",
+      "C": "XML dan Java/Kotlin",
+      "D": "HTML dan JavaScript",
+      "E": "Swift dan Objective-C"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 142,
+    "section": "Android & Pengembangan Mobile",
+    "question": "SOC (Smart Offline Client) keunggulan utamanya adalah...",
+    "options": {
+      "A": "Selalu membutuhkan koneksi internet",
+      "B": "Dapat bekerja secara efektif dalam mode offline dan sinkronisasi saat ada koneksi",
+      "C": "Memerlukan perangkat hardware yang lebih mahal",
+      "D": "Update data terjadi secara real-time",
+      "E": "Tidak dapat menyimpan data lokal"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 143,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Power Management pada arsitektur Android OS terdapat pada lapisan...",
+    "options": {
+      "A": "Application Layer",
+      "B": "Application Framework",
+      "C": "Libraries",
+      "D": "Linux Kernel",
+      "E": "Android Runtime"
+    },
+    "correct": "D"
+  },
+  {
+    "id": 144,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Resource Manager pada Application Framework Android berfungsi untuk...",
+    "options": {
+      "A": "Mengatur siklus hidup aplikasi",
+      "B": "Menyediakan akses ke file sumber seperti gambar, suara, string",
+      "C": "Mengelola koneksi jaringan",
+      "D": "Mengatur izin aplikasi",
+      "E": "Mengelola database"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 145,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Ubiquitous Computing adalah konsep dimana...",
+    "options": {
+      "A": "Komputasi hanya di data center",
+      "B": "Layanan komputasi tersedia setiap saat di mana pun, prosesnya tidak terasa",
+      "C": "Komputasi dilakukan oleh quantum computer",
+      "D": "Setiap orang memiliki satu komputer",
+      "E": "Komputasi berbasis blockchain"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 146,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Social Engineering dalam konteks keamanan mobile adalah...",
+    "options": {
+      "A": "Serangan teknis melalui kode berbahaya",
+      "B": "Manipulasi psikologis korban untuk memberikan informasi sensitif",
+      "C": "Serangan yang membebani server",
+      "D": "Penyadapan jaringan",
+      "E": "Injeksi kode ke database"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 147,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Fitur Android yang memungkinkan layar disentuh dengan banyak jari secara bersamaan disebut...",
+    "options": {
+      "A": "Gesture Control",
+      "B": "Multi-touch",
+      "C": "Haptic Feedback",
+      "D": "Touch ID",
+      "E": "Finger Sensing"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 148,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Pengujian menggunakan Selenium termasuk dalam jenis pengujian...",
+    "options": {
+      "A": "White-box testing",
+      "B": "Unit testing manual",
+      "C": "Black-box testing otomatis",
+      "D": "Penetration testing",
+      "E": "Load testing"
+    },
+    "correct": "C"
+  },
+  {
+    "id": 149,
+    "section": "Android & Pengembangan Mobile",
+    "question": "React Native dikembangkan oleh... dan menggunakan bahasa pemrograman...",
+    "options": {
+      "A": "Google, Dart",
+      "B": "Facebook/Meta, JavaScript",
+      "C": "Microsoft, C#",
+      "D": "Apple, Swift",
+      "E": "Amazon, TypeScript"
+    },
+    "correct": "B"
+  },
+  {
+    "id": 150,
+    "section": "Android & Pengembangan Mobile",
+    "question": "Manakah pernyataan yang BENAR tentang perbedaan Flutter dan React Native?",
+    "options": {
+      "A": "React Native menggunakan Dart, Flutter menggunakan JavaScript",
+      "B": "Flutter dikembangkan Facebook, React Native oleh Google",
+      "C": "Flutter mengkompilasi langsung ke kode native, React Native menggunakan JavaScript bridge",
+      "D": "React Native lebih cepat dari Flutter",
+      "E": "Keduanya menggunakan bahasa yang sama"
+    },
+    "correct": "C"
+  }
+]

@@ -1,0 +1,148 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --font-display: Georgia, "Iowan Old Style", "Palatino Linotype", "Book Antiqua", serif;
+  --font-body: -apple-system, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  --font-mono: "SFMono-Regular", Consolas, "Liberation Mono", Menlo, Courier, monospace;
+}
+
+* {
+  -webkit-tap-highlight-color: transparent;
+}
+
+body {
+  background-color: #faf8f4;
+  background-image:
+    linear-gradient(rgba(27, 27, 31, 0.025) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(27, 27, 31, 0.025) 1px, transparent 1px);
+  background-size: 28px 28px;
+}
+
+::selection {
+  background-color: #c08a2e;
+  color: #faf8f4;
+}
+
+:focus-visible {
+  outline: 2px solid #0e5e59;
+  outline-offset: 2px;
+}
+
+/* Bubble-sheet style option button, like a real LJK answer sheet */
+.bubble {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+  width: 100%;
+  text-align: left;
+  border: 1.5px solid rgba(27, 27, 31, 0.18);
+  background: #fffdf9;
+  border-radius: 0.6rem;
+  padding: 0.7rem 0.9rem;
+  transition: border-color 0.15s ease, background-color 0.15s ease, transform 0.1s ease;
+}
+
+.bubble:hover {
+  border-color: rgba(14, 94, 89, 0.5);
+}
+
+.bubble:active {
+  transform: scale(0.99);
+}
+
+.bubble-letter {
+  flex-shrink: 0;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 2rem;
+  height: 2rem;
+  border-radius: 9999px;
+  border: 1.5px solid rgba(27, 27, 31, 0.35);
+  font-family: var(--font-mono);
+  font-weight: 600;
+  font-size: 0.85rem;
+  color: #1b1b1f;
+  background: transparent;
+  transition: all 0.15s ease;
+}
+
+.bubble.selected {
+  border-color: #0e5e59;
+  background: rgba(14, 94, 89, 0.06);
+}
+
+.bubble.selected .bubble-letter {
+  background: #0e5e59;
+  border-color: #0e5e59;
+  color: #faf8f4;
+}
+
+.bubble.correct {
+  border-color: #0e5e59;
+  background: rgba(14, 94, 89, 0.08);
+}
+
+.bubble.correct .bubble-letter {
+  background: #0e5e59;
+  border-color: #0e5e59;
+  color: #faf8f4;
+}
+
+.bubble.incorrect {
+  border-color: #e1604a;
+  background: rgba(225, 96, 74, 0.08);
+}
+
+.bubble.incorrect .bubble-letter {
+  background: #e1604a;
+  border-color: #e1604a;
+  color: #faf8f4;
+}
+
+/* Navigator grid cell (per-question number in the sidebar) */
+.nav-cell {
+  font-family: var(--font-mono);
+  font-size: 0.7rem;
+  font-weight: 600;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  aspect-ratio: 1 / 1;
+  border-radius: 0.3rem;
+  border: 1px solid rgba(27, 27, 31, 0.18);
+  color: rgba(27, 27, 31, 0.55);
+  background: #fffdf9;
+  transition: all 0.12s ease;
+}
+
+.nav-cell.answered {
+  background: #0e5e59;
+  border-color: #0e5e59;
+  color: #faf8f4;
+}
+
+.nav-cell.current {
+  outline: 2px solid #c08a2e;
+  outline-offset: 1px;
+}
+
+.paper-card {
+  background: #fffdf9;
+  border: 1px solid rgba(27, 27, 31, 0.12);
+  border-radius: 1rem;
+  box-shadow: 0 1px 0 rgba(27, 27, 31, 0.04);
+}
+
+.tick-rule {
+  background-image: repeating-linear-gradient(
+    90deg,
+    rgba(27, 27, 31, 0.25),
+    rgba(27, 27, 31, 0.25) 1px,
+    transparent 1px,
+    transparent 8px
+  );
+  height: 1px;
+}
